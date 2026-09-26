@@ -38,7 +38,7 @@ export const MENU: MenuCategory[] = [
         name: "Vegetable Samosa",
         description: "Crisp pastry filled with spiced potatoes and peas, served with tamarind and mint chutney.",
         tags: ["VEGETARIAN"],
-        price: "$7.95",
+        price: "$8.95",
         popular: true,
       },
       {
